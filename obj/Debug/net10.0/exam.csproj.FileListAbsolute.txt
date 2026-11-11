@@ -1,0 +1,14 @@
+/Users/shahrom/Desktop/C#/Week 1/exam/bin/Debug/net10.0/exam
+/Users/shahrom/Desktop/C#/Week 1/exam/bin/Debug/net10.0/exam.deps.json
+/Users/shahrom/Desktop/C#/Week 1/exam/bin/Debug/net10.0/exam.runtimeconfig.json
+/Users/shahrom/Desktop/C#/Week 1/exam/bin/Debug/net10.0/exam.dll
+/Users/shahrom/Desktop/C#/Week 1/exam/bin/Debug/net10.0/exam.pdb
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/exam.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/exam.AssemblyInfoInputs.cache
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/exam.AssemblyInfo.cs
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/exam.csproj.CoreCompileInputs.cache
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/exam.dll
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/refint/exam.dll
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/exam.pdb
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/exam.genruntimeconfig.cache
+/Users/shahrom/Desktop/C#/Week 1/exam/obj/Debug/net10.0/ref/exam.dll
